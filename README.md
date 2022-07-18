@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [cekapcheck@gmail.com](cekapcheck@gmail.com)
 
-- 📝 I regularly write articles on [http://cekapcheck.com](http://cekapcheck.com)
+- 📝 I regularly write articles on [http://checkupcodes.com](http://checkupcodes.com)
 
 - 💬 Ask me about **javascript, react**
 
